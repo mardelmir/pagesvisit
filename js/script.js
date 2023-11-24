@@ -12,4 +12,3 @@ btn.addEventListener('click', () => {
     localStorage.clear()
     texto.textContent = 0
 })
-
